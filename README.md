@@ -1,2 +1,1 @@
-# shubh
-This repository is for Demo applications
+This repository is for assessment given by company.
